@@ -1,0 +1,23 @@
+img {
+    float: left;
+    float: right;
+    float: left;
+    float: right;
+    float: left;
+    float: right;
+
+    size: 100px;
+}
+
+body {
+    width: 1000px;
+    text-align: center;
+}
+
+html {
+    background-color: green;
+}
+
+footer {
+    text-align: center;
+}
